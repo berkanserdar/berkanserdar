@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [vueotel](https://github.com/berkanserdar/vueotel)
 
+- 🎗️ I have a finished project [vuepide](https://github.com/berkanserdar/vuepide)
+
 - 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **serdarkavas12@gmail.com**
