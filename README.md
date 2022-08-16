@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berkan Serdar KAVAS</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkanserdar&label=Profile%20views&color=0e75b6&style=flat" alt="berkanserdar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkanserdar" alt="berkanserdar" /></a> </p>
 
 - 🔭 I’m currently working on [vueotel](https://github.com/berkanserdar/vueotel)
 
