@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [vueotel](https://github.com/berkanserdar/vueotel)
 
-- 🎗️ I have a finished project [vuepide](https://github.com/berkanserdar/vuepide)
+- 🎗️ I have a completed project [vuepide](https://github.com/berkanserdar/vuepide)
 
 - 🌱 I’m currently learning **Vue.js**
 
